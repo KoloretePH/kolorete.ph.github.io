@@ -106,7 +106,22 @@
   }
 
   .container {
-  height: 80vh;
+  height: 90vh;
     }
+
+  .testimonial .image {
+  height: 235px;
+  width: 235px;
+    }
+
+  .steps-header h2 {
+    font-size: 20px;
+  }
+
+  .steps-header span {
+    font-size: 20px;
+  }
 }
+
+
 
